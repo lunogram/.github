@@ -22,7 +22,7 @@
 
 ### What is Lunogram?
 
-Lunogram is an open-source multi-channel outreach platform that lets you send data-driven emails, SMS, push notifications, and more. Build complex user journeys, create dynamic segments, and connect to your applications using our SDKs and APIs.
+Lunogram is an multi-channel outreach platform that lets you send data-driven emails, SMS, push notifications, and more. Build complex user journeys, create dynamic segments, and connect to your applications using our SDKs and APIs.
 
 ### Key Features
 
@@ -43,19 +43,3 @@ docker compose up -d
 ```
 
 Then visit `http://localhost:8080` to get started. See the **[full documentation](https://docs.lunogram.com)** for deployment guides and configuration options.
-
-### Repositories
-
-| Repository | Description |
-|---|---|
-| [platform](https://github.com/lunogram/platform) | Core platform &mdash; API, web UI, workers |
-| [js-sdk](https://github.com/lunogram/js-sdk) | JavaScript/TypeScript SDK for client integration |
-| [website](https://github.com/lunogram/website) | lunogram.com website |
-
-### Contributing
-
-We welcome contributions! Check out the [Contributing Guide](https://github.com/lunogram/platform/blob/main/CONTRIBUTING.md) and join our [GitHub Discussions](https://github.com/lunogram/platform/discussions) to connect with the community.
-
-### Acknowledgments
-
-Lunogram is a fork of [Parcelvoy](https://github.com/parcelvoy/platform), an open-source customer engagement platform. We're grateful to the Parcelvoy team for their foundational work and are committed to continuing the project's development.
